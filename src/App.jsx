@@ -359,7 +359,7 @@ function Onboarding({ onDone }) {
         <label className="dd-label">Your name</label>
         <input
           className="dd-input"
-          placeholder="e.g. Alqasim Bello"
+          placeholder="e.g. Alqasim Barau"
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
