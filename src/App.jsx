@@ -11,8 +11,8 @@ import {
    Direct — buy, sell and rent directly from owners. No agents, no cut.
 --------------------------------------------------------------- */
 
-const LOGO_IMG = "/public/logo.png"; // public/logo.png
-const HERO_IMG = "/public/hero.jpg"; // public/hero.jpg
+const LOGO_IMG = "/logo.png"; // public/logo.png
+const HERO_IMG = "/hero.jpg"; // public/hero.jpg
 
 const STATES = [
   "Abuja (FCT)", "Lagos", "Rivers", "Oyo", "Kano", "Kaduna", "Enugu",
